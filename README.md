@@ -1,5 +1,6 @@
 📋 Overview
 This repository contains an analysis of sales data using Microsoft Excel. The goal is to derive meaningful insights from the data, identify trends, and provide actionable recommendations to improve performance.
+
 📂 Files in the Repository
 - Sales_Report.xlsx: The raw sales data used for analysis.
 - Summary_Analysis.xlsx: A processed version with pivot tables and charts.
